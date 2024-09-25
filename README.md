@@ -34,7 +34,8 @@
 
 <h3 align="">Languages and Tools:</h3>
 
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,react-native,nextjs,zustand,redux,materialui,tailwind,nodejs,express,apollo,graphql,mysql,postgres,linux,git,gitlab,stackoverflow,vscode&theme=dark&perline=15)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,materialui,swift,tailwind,sass,nodejs,express,apollo,graphql,mysql,postgres,linux,git,gitlab,stackoverflow,npm,notion,vscode&theme=dark&perline=15)
+
 
 
 
