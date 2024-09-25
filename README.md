@@ -1,18 +1,16 @@
-[![MasterHead]([(https://media.licdn.com/dms/image/v2/D4D16AQEcbS4miBG_VA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704440910416?e=1732752000&v=beta&t=VIyaedmlu7eaLwWwfD8PsJ92ZUOe-L6TQzCCe9SCLNw)])([(https://waleedtechstudio.vercel.app/)])
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEcbS4miBG_VA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704440910416?e=1732752000&v=beta&t=VIyaedmlu7eaLwWwfD8PsJ92ZUOe-L6TQzCCe9SCLNw)
+
+[Waleed Tech Studio](https://waleedtechstudio.vercel.app/)
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=Saim-Irshad&label=Profile%20views&color=0e75b6&style=flat"
-        alt="Saim-Irshad" /> </p>
+        alt="Waleed Taher" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Saim-Irshad" target="blank"><img
-            src="https://img.shields.io/twitter/follow/Saim-Irshad?logo=twitter&style=for-the-badge" alt="Saim-Irshad"
-            </p>
-
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Swift UI**
 
 - 💬 Ask me about **React Native , MEARN, NextJS**
 
-- 📫 How to reach me **Saim-Irshad676@gmail.com**
+- 📫 How to reach me **waleed.taher17@gmail.com**
 
 - ⚡ Fun fact **I am !Funny**
 
@@ -21,17 +19,17 @@
 
 <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center"
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                    alt="rishav-chanda-b89a791b3" height="30" width="40" />linkedin.com/in/saim-irshad/</a>
+                    alt="rishav-chanda-b89a791b3" height="30" width="40" />https://www.linkedin.com/in/muhammad-waleed-neduni/</a>
 
 <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center"
                     src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" alt="rishav chanda" height="40"
-                    width="40" />designwithsaim.vercel.app</a>
+                    width="40" />https://waleedtechstudio.vercel.app/</a>
 </p>
 
 <br />
 
 <p>
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saim-Irshad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Saim-Irshad" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleed-taher&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="waleed taher" />
 </p>
 
 <h3 align="">Languages and Tools:</h3>
@@ -98,5 +96,5 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saim-Irshad&&theme=tokyonight"
-        alt="Saim-Irshad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waleed-taher&&theme=tokyonight"
+        alt="Waleed Taher" /></p>
