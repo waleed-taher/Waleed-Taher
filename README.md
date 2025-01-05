@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEcbS4miBG_VA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704440910416?e=1732752000&v=beta&t=VIyaedmlu7eaLwWwfD8PsJ92ZUOe-L6TQzCCe9SCLNw)
 
 [Waleed Tech Studio](https://waleedtechstudio.vercel.app/)
 
